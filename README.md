@@ -68,13 +68,15 @@ echo "Каркас проекта успешно развернут!"
 ## Системная конфигурация
 
 <details>
- <summary>Нажмите, чтобы посмотреть параметры рабочей станции разработчика  </summary>
+ <summary><a href="#">Нажмите, чтобы посмотреть параметры рабочей станции разработчика</a></summary>
  
+ ```text
   Окружение:  
-  ОС: Windows 11 Pro (x64)  
-  Эмулятор: Git Bash 2.45 (MinGW64)  
-  Шрифт редактора: JetBrains Mono  
-  Тема VS Code: GitHub Dark Default  
+   ОС: Windows 11 Pro (x64)  
+   Эмулятор: Git Bash 2.45 (MinGW64)  
+   Шрифт редактора: JetBrains Mono  
+   Тема VS Code: GitHub Dark Default  
+ ```
 </details>
 
 ---
